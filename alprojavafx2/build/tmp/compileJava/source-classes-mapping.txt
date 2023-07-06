@@ -1,0 +1,5 @@
+SliderExample.java
+ SliderExample
+ SliderExample$1
+ SliderExample$2
+ SliderExample$3
